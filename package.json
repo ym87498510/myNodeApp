@@ -1,0 +1,25 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ym87498510/myNodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "koa2"
+  ],
+  "author": "杨明",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ym87498510/myNodeApp/issues"
+  },
+  "homepage": "https://github.com/ym87498510/myNodeApp#readme"
+}
